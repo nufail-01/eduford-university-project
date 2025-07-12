@@ -36,7 +36,3 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 ## 🧠 Reflections
 
 Every project I build brings not only better code, but better **confidence**. It’s rewarding to see how even simple tools can bring big ideas to life. And honestly — turning concepts into real, working websites? Kinda addictive. 🔥
-
----
-
-## 📌

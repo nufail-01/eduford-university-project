@@ -33,7 +33,7 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ## 📸 Preview
 
-🎨 ![(assets/images/website.preview)]
+🎨 ![(assets/images/website.preview.png)]
 ---
 
 ## 🧠 Reflections

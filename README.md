@@ -1,35 +1,42 @@
-<h1 align="center">🎓 Eduford — Multi-Page University Website</h1>
+# Eduford 🎓
 
-<p align="center">
-  A modern, responsive website design for a fictional university — built using <strong>HTML5</strong> and <strong>CSS3</strong>.<br>
-  Perfect for learning how to structure and style real-world multi-page websites.
-</p>
+🎯 **Finished my second project – a responsive multi-page educational website.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Markup-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/Responsive-Design-green?logo=responsive" />
-  <img src="https://img.shields.io/badge/Multi--Page%20Website-Yes-lightblue" />
-  <img src="https://img.shields.io/badge/Beginner%20Friendly-Yes-brightgreen" />
-</p>
+## 🚀 About the Project
+
+Eduford is a responsive multi-page website built entirely with **HTML** and **CSS**. This project was part of my ongoing web development practice to improve my frontend skills and understanding of responsive design.
+
+From layout structure to mobile responsiveness, this build challenged me to think beyond how a site *looks*—and focus on how it *feels* across devices. Every section, from the clean hero banner to the polished footer, was crafted with usability and user experience in mind.
+
+## 🛠 What I Learned
+
+- Building multi-page layouts with clean navigation
+- Applying responsive design principles using media queries
+- Structuring semantic HTML for better accessibility
+- Styling consistently with CSS while maintaining flexibility
+- Iterating on visual design to improve user flow
+
+## 💡 Highlights
+
+- 🔹 Fully responsive across mobile, tablet, and desktop
+- 🔹 Clean and intuitive UI
+- 🔹 Pure HTML and CSS — no frameworks or libraries
+- 🔹 Hands-on learning experience in frontend fundamentals
+
+## 🌐 Live Preview
+
+🔗 [Check out the live site](https://lnkd.in/euJ3Pnpp)
+
+## 📂 Source Code
+
+💻 [[View the source on GitHub](https://lnkd.in/edDAWBJZ)](https://github.com/nufail-01/Eduford-University)
 
 ---
 
-## ✨ Project Overview
+## 🧠 Reflections
 
-**Eduford** is a multi-page website project that mimics a university's official site. This project is aimed at helping beginners understand how to:
-- Build linked web pages with consistent layout
-- Implement navigation bars, sections, and contact forms
-- Practice responsive design using media queries
-- Apply mobile-first principles for better user experience
-
-It includes essential website components like a homepage, about page, courses, blog, and contact form — all designed with a clean and structured layout.
+Every project I build brings not only better code, but better **confidence**. It’s rewarding to see how even simple tools can bring big ideas to life. And honestly — turning concepts into real, working websites? Kinda addictive. 🔥
 
 ---
 
-## 🗂️ Pages Included
-
-- **🏠 Home** — Introduction to Eduford with call-to-action buttons  
-- **🏫 About** — Overview of the institution  
-- **📚 Courses** — Details of available courses and programs  
-- **📰 Blog** — A sampl
+## 📌

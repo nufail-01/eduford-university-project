@@ -31,9 +31,6 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 💻 (https://github.com/nufail-01/Eduford-University)
 
-## 📸 Preview
-
-🎨 ![(assets/images/website.preview.png)]
 ---
 
 ## 🧠 Reflections

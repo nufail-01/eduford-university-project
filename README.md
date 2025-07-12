@@ -25,11 +25,11 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ## 🌐 Live Preview
 
-🔗 [Check out the live site](https://lnkd.in/euJ3Pnpp)
+🔗 [Check out the live site](https://lnkd.in/euJ3Pnpp)](https://nufail-01.github.io/Eduford-University/)
 
 ## 📂 Source Code
 
-💻 [[View the source on GitHub](https://lnkd.in/edDAWBJZ)](https://github.com/nufail-01/Eduford-University)
+💻 [View the source on GitHub](https://lnkd.in/edDAWBJZ)](https://github.com/nufail-01/Eduford-University)
 
 ---
 

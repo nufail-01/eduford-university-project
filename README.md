@@ -23,9 +23,10 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 - 🔹 Pure HTML and CSS — no frameworks or libraries
 - 🔹 Hands-on learning experience in frontend fundamentals
 
-## 🌐 Live Preview
+## 🌐 Live Demo
 
-🔗 (https://nufail-01.github.io/Eduford-University/)
+[![Website Preview](assets/images/lorukiwebsite.png
+)](https://nufail-01.github.io/Eduford-University/)
 
 ## 📂 Source Code
 

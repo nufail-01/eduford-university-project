@@ -25,7 +25,7 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ## 🌐 Live Demo
 
-[![Website Preview](assets/images/lorukiwebsite.png
+[![Website Preview](assets/images/eduforduniversity.png
 )](https://nufail-01.github.io/Eduford-University/)
 
 ## 📂 Source Code

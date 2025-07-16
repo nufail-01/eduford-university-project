@@ -1,4 +1,4 @@
-# Eduford 🎓
+# Eduford University 🎓
 
 🎯 **Finished my second project – a responsive multi-page educational website.**
 

@@ -2,16 +2,22 @@
 
 🎯 **Finished my second project – a responsive multi-page educational website.**
 
+---
+
 ## 🚀 About the Project
 
 Eduford is a responsive multi-page website built entirely with **HTML** and **CSS**. This project was part of my ongoing web development practice to improve my frontend skills and understanding of responsive design.
 
 From layout structure to mobile responsiveness, this build challenged me to think beyond how a site *looks*—and focus on how it *feels* across devices. Every section, from the clean hero banner to the polished footer, was crafted with usability and user experience in mind.
 
+---
+
 ## 🌐 Live Demo
 
 [![Website Preview](assets/images/eduford.png
 )](https://nufail-01.github.io/Eduford-University/)
+
+---
 
 ## 🛠 What I Learned
 
@@ -21,12 +27,16 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 - Styling consistently with CSS while maintaining flexibility
 - Iterating on visual design to improve user flow
 
+---
+
 ## 💡 Highlights
 
 - 🔹 Fully responsive across mobile, tablet, and desktop
 - 🔹 Clean and intuitive UI
 - 🔹 Pure HTML and CSS — no frameworks or libraries
 - 🔹 Hands-on learning experience in frontend fundamentals
+
+---
 
 ## 📂 Source Code
 

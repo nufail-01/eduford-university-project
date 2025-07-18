@@ -8,6 +8,11 @@ Eduford is a responsive multi-page website built entirely with **HTML** and **CS
 
 From layout structure to mobile responsiveness, this build challenged me to think beyond how a site *looks*—and focus on how it *feels* across devices. Every section, from the clean hero banner to the polished footer, was crafted with usability and user experience in mind.
 
+## 🌐 Live Demo
+
+[![Website Preview](assets/images/eduford.png
+)](https://nufail-01.github.io/Eduford-University/)
+
 ## 🛠 What I Learned
 
 - Building multi-page layouts with clean navigation
@@ -22,11 +27,6 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 - 🔹 Clean and intuitive UI
 - 🔹 Pure HTML and CSS — no frameworks or libraries
 - 🔹 Hands-on learning experience in frontend fundamentals
-
-## 🌐 Live Demo
-
-[![Website Preview](assets/images/eduford.png
-)](https://nufail-01.github.io/Eduford-University/)
 
 ## 📂 Source Code
 

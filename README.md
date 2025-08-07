@@ -15,7 +15,7 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 ## 🌐 Live Demo
 
 [![Website Preview](assets/images/eduford.png
-)](https://nufail-01.github.io/Eduford-University/)
+)](https://nufail-01.github.io/starbucks/)
 
 ---
 

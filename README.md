@@ -31,7 +31,7 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ## 💡 Highlights
 
-- 🔹 Fully responsive across mobile, tablet, and desktop
+-  Fully responsive across mobile, tablet, and desktop
 - 🔹 Clean and intuitive UI
 - 🔹 Pure HTML and CSS — no frameworks or libraries
 - 🔹 Hands-on learning experience in frontend fundamentals

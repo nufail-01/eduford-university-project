@@ -50,7 +50,6 @@ Every project I build brings not only better code, but better **confidence**. It
 
 ---
 ---
----
 
 ## 🤝 Connect with Me
 

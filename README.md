@@ -40,7 +40,7 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ## 📂 Source Code
 
-[🔗 GitHub Repository](https://github.com/nufail-01/Eduford-University)
+🔗 [GitHub Repository](https://github.com/nufail-01/Eduford-University)
 
 ---
 

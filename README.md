@@ -3,7 +3,7 @@
 🎯 **Finished my second project – a responsive multi-page educational website.**
 
 ---
-
+---
 ## 🚀 About the Project
 
 Eduford is a responsive multi-page website built entirely with **HTML** and **CSS**. This project was part of my ongoing web development practice to improve my frontend skills and understanding of responsive design.
